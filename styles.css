@@ -1,0 +1,51 @@
+*{
+    background-color: rgb(6, 139, 6);
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#message{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#card{
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    color: white;
+}
+
+#sum{
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    color: white;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+}
+  
+button {
+    padding: 10px 20px;
+    font-weight: 600;
+    color:rgb(6, 139, 6);
+    background-color: yellow;
+}
+
+#player-el{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 800;
+}
