@@ -48,3 +48,7 @@ The goal of Blackjack is to get as close to 21 as possible without exceeding it.
 🃏 Simple and interactive UI
 
 ⚡ Quick gameplay with instant results
+
+## URL for BlackJack Game
+
+[View Here]([https://youtube-clone.vercel.app/](https://aditya8299.github.io/BlackJack-Game/))
